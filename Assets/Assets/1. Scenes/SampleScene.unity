@@ -297,7 +297,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   range: 5
-  rangeKey: 122
+  rangeKey: 97
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
